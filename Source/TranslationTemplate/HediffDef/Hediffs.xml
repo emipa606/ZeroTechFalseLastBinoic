@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: plain white brain -->
+  <LingFPS_Blank_Brain.label>plain white brain</LingFPS_Blank_Brain.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Brain.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Brain.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Brain.labelNoun>body</LingFPS_Blank_Brain.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Brain.stages.base.label>base</LingFPS_Blank_Brain.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Brain.stages.low.label>low</LingFPS_Blank_Brain.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Brain.stages.Normal.label>Normal</LingFPS_Blank_Brain.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Brain.stages.High.label>High</LingFPS_Blank_Brain.stages.High.label>
+  <!-- EN: plain white clavicle -->
+  <LingFPS_Blank_Clavicle.label>plain white clavicle</LingFPS_Blank_Clavicle.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Clavicle.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Clavicle.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Clavicle.labelNoun>body</LingFPS_Blank_Clavicle.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Clavicle.stages.base.label>base</LingFPS_Blank_Clavicle.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Clavicle.stages.low.label>low</LingFPS_Blank_Clavicle.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Clavicle.stages.Normal.label>Normal</LingFPS_Blank_Clavicle.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Clavicle.stages.High.label>High</LingFPS_Blank_Clavicle.stages.High.label>
+  <!-- EN: plain white ear -->
+  <LingFPS_Blank_Ear.label>plain white ear</LingFPS_Blank_Ear.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Ear.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Ear.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Ear.labelNoun>body</LingFPS_Blank_Ear.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Ear.stages.base.label>base</LingFPS_Blank_Ear.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Ear.stages.low.label>low</LingFPS_Blank_Ear.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Ear.stages.Normal.label>Normal</LingFPS_Blank_Ear.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Ear.stages.High.label>High</LingFPS_Blank_Ear.stages.High.label>
+  <!-- EN: plain white eye -->
+  <LingFPS_Blank_Eye.label>plain white eye</LingFPS_Blank_Eye.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Eye.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Eye.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Eye.labelNoun>body</LingFPS_Blank_Eye.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Eye.stages.base.label>base</LingFPS_Blank_Eye.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Eye.stages.low.label>low</LingFPS_Blank_Eye.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Eye.stages.Normal.label>Normal</LingFPS_Blank_Eye.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Eye.stages.High.label>High</LingFPS_Blank_Eye.stages.High.label>
+  <!-- EN: plain white femur -->
+  <LingFPS_Blank_Femur.label>plain white femur</LingFPS_Blank_Femur.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Femur.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Femur.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Femur.labelNoun>body</LingFPS_Blank_Femur.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Femur.stages.base.label>base</LingFPS_Blank_Femur.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Femur.stages.low.label>low</LingFPS_Blank_Femur.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Femur.stages.Normal.label>Normal</LingFPS_Blank_Femur.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Femur.stages.High.label>High</LingFPS_Blank_Femur.stages.High.label>
+  <!-- EN: plain white foot -->
+  <LingFPS_Blank_Foot.label>plain white foot</LingFPS_Blank_Foot.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Foot.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Foot.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Foot.labelNoun>body</LingFPS_Blank_Foot.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Foot.stages.base.label>base</LingFPS_Blank_Foot.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Foot.stages.low.label>low</LingFPS_Blank_Foot.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Foot.stages.Normal.label>Normal</LingFPS_Blank_Foot.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Foot.stages.High.label>High</LingFPS_Blank_Foot.stages.High.label>
+  <!-- EN: plain white hand -->
+  <LingFPS_Blank_Hand.label>plain white hand</LingFPS_Blank_Hand.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Hand.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Hand.description>
+  <!-- EN: fist -->
+  <LingFPS_Blank_Hand.comps.HediffComp_VerbGiver.tools.fist.label>fist</LingFPS_Blank_Hand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: body -->
+  <LingFPS_Blank_Hand.labelNoun>body</LingFPS_Blank_Hand.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Hand.stages.base.label>base</LingFPS_Blank_Hand.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Hand.stages.low.label>low</LingFPS_Blank_Hand.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Hand.stages.Normal.label>Normal</LingFPS_Blank_Hand.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Hand.stages.High.label>High</LingFPS_Blank_Hand.stages.High.label>
+  <!-- EN: plain white heart -->
+  <LingFPS_Blank_Heart.label>plain white heart</LingFPS_Blank_Heart.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Heart.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Heart.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Heart.labelNoun>body</LingFPS_Blank_Heart.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Heart.stages.base.label>base</LingFPS_Blank_Heart.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Heart.stages.low.label>low</LingFPS_Blank_Heart.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Heart.stages.Normal.label>Normal</LingFPS_Blank_Heart.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Heart.stages.High.label>High</LingFPS_Blank_Heart.stages.High.label>
+  <!-- EN: plain white humerus -->
+  <LingFPS_Blank_Humerus.label>plain white humerus</LingFPS_Blank_Humerus.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Humerus.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Humerus.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Humerus.labelNoun>body</LingFPS_Blank_Humerus.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Humerus.stages.base.label>base</LingFPS_Blank_Humerus.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Humerus.stages.low.label>low</LingFPS_Blank_Humerus.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Humerus.stages.Normal.label>Normal</LingFPS_Blank_Humerus.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Humerus.stages.High.label>High</LingFPS_Blank_Humerus.stages.High.label>
+  <!-- EN: plain white jaw -->
+  <LingFPS_Blank_Jaw.label>plain white jaw</LingFPS_Blank_Jaw.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Jaw.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Jaw.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Jaw.labelNoun>body</LingFPS_Blank_Jaw.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Jaw.stages.base.label>base</LingFPS_Blank_Jaw.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Jaw.stages.low.label>low</LingFPS_Blank_Jaw.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Jaw.stages.Normal.label>Normal</LingFPS_Blank_Jaw.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Jaw.stages.High.label>High</LingFPS_Blank_Jaw.stages.High.label>
+  <!-- EN: plain white kidney -->
+  <LingFPS_Blank_Kidney.label>plain white kidney</LingFPS_Blank_Kidney.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Kidney.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Kidney.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Kidney.labelNoun>body</LingFPS_Blank_Kidney.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Kidney.stages.base.label>base</LingFPS_Blank_Kidney.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Kidney.stages.low.label>low</LingFPS_Blank_Kidney.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Kidney.stages.Normal.label>Normal</LingFPS_Blank_Kidney.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Kidney.stages.High.label>High</LingFPS_Blank_Kidney.stages.High.label>
+  <!-- EN: plain white liver -->
+  <LingFPS_Blank_Liver.label>plain white liver</LingFPS_Blank_Liver.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Liver.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Liver.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Liver.labelNoun>body</LingFPS_Blank_Liver.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Liver.stages.base.label>base</LingFPS_Blank_Liver.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Liver.stages.low.label>low</LingFPS_Blank_Liver.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Liver.stages.Normal.label>Normal</LingFPS_Blank_Liver.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Liver.stages.High.label>High</LingFPS_Blank_Liver.stages.High.label>
+  <!-- EN: plain white lung -->
+  <LingFPS_Blank_Lung.label>plain white lung</LingFPS_Blank_Lung.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Lung.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Lung.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Lung.labelNoun>body</LingFPS_Blank_Lung.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Lung.stages.base.label>base</LingFPS_Blank_Lung.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Lung.stages.low.label>low</LingFPS_Blank_Lung.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Lung.stages.Normal.label>Normal</LingFPS_Blank_Lung.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Lung.stages.High.label>High</LingFPS_Blank_Lung.stages.High.label>
+  <!-- EN: plain white nose -->
+  <LingFPS_Blank_Nose.label>plain white nose</LingFPS_Blank_Nose.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Nose.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Nose.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Nose.labelNoun>body</LingFPS_Blank_Nose.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Nose.stages.base.label>base</LingFPS_Blank_Nose.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Nose.stages.low.label>low</LingFPS_Blank_Nose.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Nose.stages.Normal.label>Normal</LingFPS_Blank_Nose.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Nose.stages.High.label>High</LingFPS_Blank_Nose.stages.High.label>
+  <!-- EN: plain white pelvis -->
+  <LingFPS_Blank_Pelvis.label>plain white pelvis</LingFPS_Blank_Pelvis.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Pelvis.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Pelvis.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Pelvis.labelNoun>body</LingFPS_Blank_Pelvis.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Pelvis.stages.base.label>base</LingFPS_Blank_Pelvis.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Pelvis.stages.low.label>low</LingFPS_Blank_Pelvis.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Pelvis.stages.Normal.label>Normal</LingFPS_Blank_Pelvis.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Pelvis.stages.High.label>High</LingFPS_Blank_Pelvis.stages.High.label>
+  <!-- EN: plain white radius -->
+  <LingFPS_Blank_Radius.label>plain white radius</LingFPS_Blank_Radius.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Radius.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Radius.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Radius.labelNoun>body</LingFPS_Blank_Radius.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Radius.stages.base.label>base</LingFPS_Blank_Radius.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Radius.stages.low.label>low</LingFPS_Blank_Radius.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Radius.stages.Normal.label>Normal</LingFPS_Blank_Radius.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Radius.stages.High.label>High</LingFPS_Blank_Radius.stages.High.label>
+  <!-- EN: plain white spine -->
+  <LingFPS_Blank_Spine.label>plain white spine</LingFPS_Blank_Spine.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Spine.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Spine.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Spine.labelNoun>body</LingFPS_Blank_Spine.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Spine.stages.base.label>base</LingFPS_Blank_Spine.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Spine.stages.low.label>low</LingFPS_Blank_Spine.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Spine.stages.Normal.label>Normal</LingFPS_Blank_Spine.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Spine.stages.High.label>High</LingFPS_Blank_Spine.stages.High.label>
+  <!-- EN: plain white sternum -->
+  <LingFPS_Blank_Sternum.label>plain white sternum</LingFPS_Blank_Sternum.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Sternum.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Sternum.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Sternum.labelNoun>body</LingFPS_Blank_Sternum.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Sternum.stages.base.label>base</LingFPS_Blank_Sternum.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Sternum.stages.low.label>low</LingFPS_Blank_Sternum.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Sternum.stages.Normal.label>Normal</LingFPS_Blank_Sternum.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Sternum.stages.High.label>High</LingFPS_Blank_Sternum.stages.High.label>
+  <!-- EN: plain white stomach -->
+  <LingFPS_Blank_Stomach.label>plain white stomach</LingFPS_Blank_Stomach.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Stomach.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Stomach.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Stomach.labelNoun>body</LingFPS_Blank_Stomach.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Stomach.stages.base.label>base</LingFPS_Blank_Stomach.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Stomach.stages.low.label>low</LingFPS_Blank_Stomach.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Stomach.stages.Normal.label>Normal</LingFPS_Blank_Stomach.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Stomach.stages.High.label>High</LingFPS_Blank_Stomach.stages.High.label>
+  <!-- EN: plain white protection -->
+  <LingFPS_Blank_TaoZhuang.label>plain white protection</LingFPS_Blank_TaoZhuang.label>
+  <!-- EN: The effect of resonance between plain white bionics can greatly improve the ability of plain white bionic user.\nEvery five pieces of plain white bionics installed, this resonance effect will increase by one level. -->
+  <LingFPS_Blank_TaoZhuang.description>The effect of resonance between plain white bionics can greatly improve the ability of plain white bionic user.
+Every five pieces of plain white bionics installed, this resonance effect will increase by one level.</LingFPS_Blank_TaoZhuang.description>
+  <!-- EN: lv.0 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv0.label>lv.0</LingFPS_Blank_TaoZhuang.stages.lv0.label>
+  <!-- EN: lv.1 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv1.label>lv.1</LingFPS_Blank_TaoZhuang.stages.lv1.label>
+  <!-- EN: lv.2 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv2.label>lv.2</LingFPS_Blank_TaoZhuang.stages.lv2.label>
+  <!-- EN: lv.3 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv3.label>lv.3</LingFPS_Blank_TaoZhuang.stages.lv3.label>
+  <!-- EN: lv.4 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv4.label>lv.4</LingFPS_Blank_TaoZhuang.stages.lv4.label>
+  <!-- EN: lv.5 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv5.label>lv.5</LingFPS_Blank_TaoZhuang.stages.lv5.label>
+  <!-- EN: lv.6 -->
+  <LingFPS_Blank_TaoZhuang.stages.lv6.label>lv.6</LingFPS_Blank_TaoZhuang.stages.lv6.label>
+  <!-- EN: plain white tibia -->
+  <LingFPS_Blank_Tibia.label>plain white tibia</LingFPS_Blank_Tibia.label>
+  <!-- EN: Bionic components installed on the human body,Its efficiency will increase over time. -->
+  <LingFPS_Blank_Tibia.description>Bionic components installed on the human body,Its efficiency will increase over time.</LingFPS_Blank_Tibia.description>
+  <!-- EN: body -->
+  <LingFPS_Blank_Tibia.labelNoun>body</LingFPS_Blank_Tibia.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blank_Tibia.stages.base.label>base</LingFPS_Blank_Tibia.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blank_Tibia.stages.low.label>low</LingFPS_Blank_Tibia.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blank_Tibia.stages.Normal.label>Normal</LingFPS_Blank_Tibia.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blank_Tibia.stages.High.label>High</LingFPS_Blank_Tibia.stages.High.label>
+  <!-- EN: red blood brain -->
+  <LingFPS_Blood_Brain.label>red blood brain</LingFPS_Blood_Brain.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Brain.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Brain.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Brain.labelNoun>body</LingFPS_Blood_Brain.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Brain.stages.base.label>base</LingFPS_Blood_Brain.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Brain.stages.low.label>low</LingFPS_Blood_Brain.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Brain.stages.Normal.label>Normal</LingFPS_Blood_Brain.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Brain.stages.High.label>High</LingFPS_Blood_Brain.stages.High.label>
+  <!-- EN: red blood clavicle -->
+  <LingFPS_Blood_Clavicle.label>red blood clavicle</LingFPS_Blood_Clavicle.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Clavicle.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Clavicle.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Clavicle.labelNoun>body</LingFPS_Blood_Clavicle.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Clavicle.stages.base.label>base</LingFPS_Blood_Clavicle.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Clavicle.stages.low.label>low</LingFPS_Blood_Clavicle.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Clavicle.stages.Normal.label>Normal</LingFPS_Blood_Clavicle.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Clavicle.stages.High.label>High</LingFPS_Blood_Clavicle.stages.High.label>
+  <!-- EN: red blood ear -->
+  <LingFPS_Blood_Ear.label>red blood ear</LingFPS_Blood_Ear.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Ear.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Ear.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Ear.labelNoun>body</LingFPS_Blood_Ear.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Ear.stages.base.label>base</LingFPS_Blood_Ear.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Ear.stages.low.label>low</LingFPS_Blood_Ear.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Ear.stages.Normal.label>Normal</LingFPS_Blood_Ear.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Ear.stages.High.label>High</LingFPS_Blood_Ear.stages.High.label>
+  <!-- EN: red blood eye -->
+  <LingFPS_Blood_Eye.label>red blood eye</LingFPS_Blood_Eye.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Eye.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Eye.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Eye.labelNoun>body</LingFPS_Blood_Eye.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Eye.stages.base.label>base</LingFPS_Blood_Eye.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Eye.stages.low.label>low</LingFPS_Blood_Eye.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Eye.stages.Normal.label>Normal</LingFPS_Blood_Eye.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Eye.stages.High.label>High</LingFPS_Blood_Eye.stages.High.label>
+  <!-- EN: red blood femur -->
+  <LingFPS_Blood_Femur.label>red blood femur</LingFPS_Blood_Femur.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Femur.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Femur.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Femur.labelNoun>body</LingFPS_Blood_Femur.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Femur.stages.base.label>base</LingFPS_Blood_Femur.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Femur.stages.low.label>low</LingFPS_Blood_Femur.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Femur.stages.Normal.label>Normal</LingFPS_Blood_Femur.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Femur.stages.High.label>High</LingFPS_Blood_Femur.stages.High.label>
+  <!-- EN: red blood foot -->
+  <LingFPS_Blood_Foot.label>red blood foot</LingFPS_Blood_Foot.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Foot.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Foot.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Foot.labelNoun>body</LingFPS_Blood_Foot.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Foot.stages.base.label>base</LingFPS_Blood_Foot.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Foot.stages.low.label>low</LingFPS_Blood_Foot.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Foot.stages.Normal.label>Normal</LingFPS_Blood_Foot.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Foot.stages.High.label>High</LingFPS_Blood_Foot.stages.High.label>
+  <!-- EN: red blood hand -->
+  <LingFPS_Blood_Hand.label>red blood hand</LingFPS_Blood_Hand.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Hand.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Hand.description>
+  <!-- EN: fist -->
+  <LingFPS_Blood_Hand.comps.HediffComp_VerbGiver.tools.fist.label>fist</LingFPS_Blood_Hand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: body -->
+  <LingFPS_Blood_Hand.labelNoun>body</LingFPS_Blood_Hand.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Hand.stages.base.label>base</LingFPS_Blood_Hand.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Hand.stages.low.label>low</LingFPS_Blood_Hand.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Hand.stages.Normal.label>Normal</LingFPS_Blood_Hand.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Hand.stages.High.label>High</LingFPS_Blood_Hand.stages.High.label>
+  <!-- EN: red blood heart -->
+  <LingFPS_Blood_Heart.label>red blood heart</LingFPS_Blood_Heart.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Heart.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Heart.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Heart.labelNoun>body</LingFPS_Blood_Heart.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Heart.stages.base.label>base</LingFPS_Blood_Heart.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Heart.stages.low.label>low</LingFPS_Blood_Heart.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Heart.stages.Normal.label>Normal</LingFPS_Blood_Heart.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Heart.stages.High.label>High</LingFPS_Blood_Heart.stages.High.label>
+  <!-- EN: red blood humerus -->
+  <LingFPS_Blood_Humerus.label>red blood humerus</LingFPS_Blood_Humerus.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Humerus.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Humerus.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Humerus.labelNoun>body</LingFPS_Blood_Humerus.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Humerus.stages.base.label>base</LingFPS_Blood_Humerus.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Humerus.stages.low.label>low</LingFPS_Blood_Humerus.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Humerus.stages.Normal.label>Normal</LingFPS_Blood_Humerus.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Humerus.stages.High.label>High</LingFPS_Blood_Humerus.stages.High.label>
+  <!-- EN: red blood jaw -->
+  <LingFPS_Blood_Jaw.label>red blood jaw</LingFPS_Blood_Jaw.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Jaw.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Jaw.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Jaw.labelNoun>body</LingFPS_Blood_Jaw.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Jaw.stages.base.label>base</LingFPS_Blood_Jaw.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Jaw.stages.low.label>low</LingFPS_Blood_Jaw.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Jaw.stages.Normal.label>Normal</LingFPS_Blood_Jaw.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Jaw.stages.High.label>High</LingFPS_Blood_Jaw.stages.High.label>
+  <!-- EN: red blood kidney -->
+  <LingFPS_Blood_Kidney.label>red blood kidney</LingFPS_Blood_Kidney.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Kidney.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Kidney.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Kidney.labelNoun>body</LingFPS_Blood_Kidney.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Kidney.stages.base.label>base</LingFPS_Blood_Kidney.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Kidney.stages.low.label>low</LingFPS_Blood_Kidney.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Kidney.stages.Normal.label>Normal</LingFPS_Blood_Kidney.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Kidney.stages.High.label>High</LingFPS_Blood_Kidney.stages.High.label>
+  <!-- EN: red blood liver -->
+  <LingFPS_Blood_Liver.label>red blood liver</LingFPS_Blood_Liver.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Liver.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Liver.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Liver.labelNoun>body</LingFPS_Blood_Liver.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Liver.stages.base.label>base</LingFPS_Blood_Liver.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Liver.stages.low.label>low</LingFPS_Blood_Liver.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Liver.stages.Normal.label>Normal</LingFPS_Blood_Liver.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Liver.stages.High.label>High</LingFPS_Blood_Liver.stages.High.label>
+  <!-- EN: red blood lung -->
+  <LingFPS_Blood_Lung.label>red blood lung</LingFPS_Blood_Lung.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Lung.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Lung.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Lung.labelNoun>body</LingFPS_Blood_Lung.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Lung.stages.base.label>base</LingFPS_Blood_Lung.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Lung.stages.low.label>low</LingFPS_Blood_Lung.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Lung.stages.Normal.label>Normal</LingFPS_Blood_Lung.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Lung.stages.High.label>High</LingFPS_Blood_Lung.stages.High.label>
+  <!-- EN: red blood nose -->
+  <LingFPS_Blood_Nose.label>red blood nose</LingFPS_Blood_Nose.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Nose.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Nose.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Nose.labelNoun>body</LingFPS_Blood_Nose.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Nose.stages.base.label>base</LingFPS_Blood_Nose.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Nose.stages.low.label>low</LingFPS_Blood_Nose.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Nose.stages.Normal.label>Normal</LingFPS_Blood_Nose.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Nose.stages.High.label>High</LingFPS_Blood_Nose.stages.High.label>
+  <!-- EN: red blood pelvis -->
+  <LingFPS_Blood_Pelvis.label>red blood pelvis</LingFPS_Blood_Pelvis.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Pelvis.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Pelvis.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Pelvis.labelNoun>body</LingFPS_Blood_Pelvis.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Pelvis.stages.base.label>base</LingFPS_Blood_Pelvis.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Pelvis.stages.low.label>low</LingFPS_Blood_Pelvis.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Pelvis.stages.Normal.label>Normal</LingFPS_Blood_Pelvis.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Pelvis.stages.High.label>High</LingFPS_Blood_Pelvis.stages.High.label>
+  <!-- EN: red blood radius -->
+  <LingFPS_Blood_Radius.label>red blood radius</LingFPS_Blood_Radius.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Radius.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Radius.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Radius.labelNoun>body</LingFPS_Blood_Radius.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Radius.stages.base.label>base</LingFPS_Blood_Radius.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Radius.stages.low.label>low</LingFPS_Blood_Radius.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Radius.stages.Normal.label>Normal</LingFPS_Blood_Radius.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Radius.stages.High.label>High</LingFPS_Blood_Radius.stages.High.label>
+  <!-- EN: red blood spine -->
+  <LingFPS_Blood_Spine.label>red blood spine</LingFPS_Blood_Spine.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Spine.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Spine.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Spine.labelNoun>body</LingFPS_Blood_Spine.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Spine.stages.base.label>base</LingFPS_Blood_Spine.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Spine.stages.low.label>low</LingFPS_Blood_Spine.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Spine.stages.Normal.label>Normal</LingFPS_Blood_Spine.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Spine.stages.High.label>High</LingFPS_Blood_Spine.stages.High.label>
+  <!-- EN: red blood sternum -->
+  <LingFPS_Blood_Sternum.label>red blood sternum</LingFPS_Blood_Sternum.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Sternum.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Sternum.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Sternum.labelNoun>body</LingFPS_Blood_Sternum.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Sternum.stages.base.label>base</LingFPS_Blood_Sternum.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Sternum.stages.low.label>low</LingFPS_Blood_Sternum.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Sternum.stages.Normal.label>Normal</LingFPS_Blood_Sternum.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Sternum.stages.High.label>High</LingFPS_Blood_Sternum.stages.High.label>
+  <!-- EN: red blood stomach -->
+  <LingFPS_Blood_Stomach.label>red blood stomach</LingFPS_Blood_Stomach.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Stomach.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Stomach.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Stomach.labelNoun>body</LingFPS_Blood_Stomach.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Stomach.stages.base.label>base</LingFPS_Blood_Stomach.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Stomach.stages.low.label>low</LingFPS_Blood_Stomach.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Stomach.stages.Normal.label>Normal</LingFPS_Blood_Stomach.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Stomach.stages.High.label>High</LingFPS_Blood_Stomach.stages.High.label>
+  <!-- EN: red blood protection -->
+  <LingFPS_Blood_TaoZhuang.label>red blood protection</LingFPS_Blood_TaoZhuang.label>
+  <!-- EN: The effect of resonance between red blood bionics can greatly improve the ability of red blood bionic user.\nEvery five pieces of red blood bionics installed, this resonance effect will increase by one level. -->
+  <LingFPS_Blood_TaoZhuang.description>The effect of resonance between red blood bionics can greatly improve the ability of red blood bionic user.
+Every five pieces of red blood bionics installed, this resonance effect will increase by one level.</LingFPS_Blood_TaoZhuang.description>
+  <!-- EN: lv.0 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv0.label>lv.0</LingFPS_Blood_TaoZhuang.stages.lv0.label>
+  <!-- EN: lv.1 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv1.label>lv.1</LingFPS_Blood_TaoZhuang.stages.lv1.label>
+  <!-- EN: lv.2 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv2.label>lv.2</LingFPS_Blood_TaoZhuang.stages.lv2.label>
+  <!-- EN: lv.3 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv3.label>lv.3</LingFPS_Blood_TaoZhuang.stages.lv3.label>
+  <!-- EN: lv.4 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv4.label>lv.4</LingFPS_Blood_TaoZhuang.stages.lv4.label>
+  <!-- EN: lv.5 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv5.label>lv.5</LingFPS_Blood_TaoZhuang.stages.lv5.label>
+  <!-- EN: lv.6 -->
+  <LingFPS_Blood_TaoZhuang.stages.lv6.label>lv.6</LingFPS_Blood_TaoZhuang.stages.lv6.label>
+  <!-- EN: red blood tibia -->
+  <LingFPS_Blood_Tibia.label>red blood tibia</LingFPS_Blood_Tibia.label>
+  <!-- EN: The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill. -->
+  <LingFPS_Blood_Tibia.description>The efficiency of bionic components installed on the human body will decrease with the passage of time, but the efficiency will increase with each kill.</LingFPS_Blood_Tibia.description>
+  <!-- EN: body -->
+  <LingFPS_Blood_Tibia.labelNoun>body</LingFPS_Blood_Tibia.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Blood_Tibia.stages.base.label>base</LingFPS_Blood_Tibia.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Blood_Tibia.stages.low.label>low</LingFPS_Blood_Tibia.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Blood_Tibia.stages.Normal.label>Normal</LingFPS_Blood_Tibia.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Blood_Tibia.stages.High.label>High</LingFPS_Blood_Tibia.stages.High.label>
+  <!-- EN: dark bone brain -->
+  <LingFPS_Turtle_Brain.label>dark bone brain</LingFPS_Turtle_Brain.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Brain.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Brain.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Brain.labelNoun>body</LingFPS_Turtle_Brain.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Brain.stages.base.label>base</LingFPS_Turtle_Brain.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Brain.stages.low.label>low</LingFPS_Turtle_Brain.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Brain.stages.Normal.label>Normal</LingFPS_Turtle_Brain.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Brain.stages.High.label>High</LingFPS_Turtle_Brain.stages.High.label>
+  <!-- EN: dark bone clavicle -->
+  <LingFPS_Turtle_Clavicle.label>dark bone clavicle</LingFPS_Turtle_Clavicle.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Clavicle.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Clavicle.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Clavicle.labelNoun>body</LingFPS_Turtle_Clavicle.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Clavicle.stages.base.label>base</LingFPS_Turtle_Clavicle.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Clavicle.stages.low.label>low</LingFPS_Turtle_Clavicle.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Clavicle.stages.Normal.label>Normal</LingFPS_Turtle_Clavicle.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Clavicle.stages.High.label>High</LingFPS_Turtle_Clavicle.stages.High.label>
+  <!-- EN: dark bone ear -->
+  <LingFPS_Turtle_Ear.label>dark bone ear</LingFPS_Turtle_Ear.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Ear.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Ear.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Ear.labelNoun>body</LingFPS_Turtle_Ear.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Ear.stages.base.label>base</LingFPS_Turtle_Ear.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Ear.stages.low.label>low</LingFPS_Turtle_Ear.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Ear.stages.Normal.label>Normal</LingFPS_Turtle_Ear.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Ear.stages.High.label>High</LingFPS_Turtle_Ear.stages.High.label>
+  <!-- EN: dark bone eye -->
+  <LingFPS_Turtle_Eye.label>dark bone eye</LingFPS_Turtle_Eye.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Eye.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Eye.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Eye.labelNoun>body</LingFPS_Turtle_Eye.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Eye.stages.base.label>base</LingFPS_Turtle_Eye.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Eye.stages.low.label>low</LingFPS_Turtle_Eye.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Eye.stages.Normal.label>Normal</LingFPS_Turtle_Eye.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Eye.stages.High.label>High</LingFPS_Turtle_Eye.stages.High.label>
+  <!-- EN: dark bone femur -->
+  <LingFPS_Turtle_Femur.label>dark bone femur</LingFPS_Turtle_Femur.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Femur.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Femur.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Femur.labelNoun>body</LingFPS_Turtle_Femur.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Femur.stages.base.label>base</LingFPS_Turtle_Femur.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Femur.stages.low.label>low</LingFPS_Turtle_Femur.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Femur.stages.Normal.label>Normal</LingFPS_Turtle_Femur.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Femur.stages.High.label>High</LingFPS_Turtle_Femur.stages.High.label>
+  <!-- EN: dark bone foot -->
+  <LingFPS_Turtle_Foot.label>dark bone foot</LingFPS_Turtle_Foot.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Foot.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Foot.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Foot.labelNoun>body</LingFPS_Turtle_Foot.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Foot.stages.base.label>base</LingFPS_Turtle_Foot.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Foot.stages.low.label>low</LingFPS_Turtle_Foot.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Foot.stages.Normal.label>Normal</LingFPS_Turtle_Foot.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Foot.stages.High.label>High</LingFPS_Turtle_Foot.stages.High.label>
+  <!-- EN: dark bone hand -->
+  <LingFPS_Turtle_Hand.label>dark bone hand</LingFPS_Turtle_Hand.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Hand.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Hand.description>
+  <!-- EN: fist -->
+  <LingFPS_Turtle_Hand.comps.HediffComp_VerbGiver.tools.fist.label>fist</LingFPS_Turtle_Hand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Hand.labelNoun>body</LingFPS_Turtle_Hand.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Hand.stages.base.label>base</LingFPS_Turtle_Hand.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Hand.stages.low.label>low</LingFPS_Turtle_Hand.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Hand.stages.Normal.label>Normal</LingFPS_Turtle_Hand.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Hand.stages.High.label>High</LingFPS_Turtle_Hand.stages.High.label>
+  <!-- EN: dark bone heart -->
+  <LingFPS_Turtle_Heart.label>dark bone heart</LingFPS_Turtle_Heart.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Heart.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Heart.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Heart.labelNoun>body</LingFPS_Turtle_Heart.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Heart.stages.base.label>base</LingFPS_Turtle_Heart.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Heart.stages.low.label>low</LingFPS_Turtle_Heart.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Heart.stages.Normal.label>Normal</LingFPS_Turtle_Heart.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Heart.stages.High.label>High</LingFPS_Turtle_Heart.stages.High.label>
+  <!-- EN: dark bone humerus -->
+  <LingFPS_Turtle_Humerus.label>dark bone humerus</LingFPS_Turtle_Humerus.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Humerus.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Humerus.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Humerus.labelNoun>body</LingFPS_Turtle_Humerus.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Humerus.stages.base.label>base</LingFPS_Turtle_Humerus.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Humerus.stages.low.label>low</LingFPS_Turtle_Humerus.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Humerus.stages.Normal.label>Normal</LingFPS_Turtle_Humerus.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Humerus.stages.High.label>High</LingFPS_Turtle_Humerus.stages.High.label>
+  <!-- EN: dark bone jaw -->
+  <LingFPS_Turtle_Jaw.label>dark bone jaw</LingFPS_Turtle_Jaw.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Jaw.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Jaw.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Jaw.labelNoun>body</LingFPS_Turtle_Jaw.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Jaw.stages.base.label>base</LingFPS_Turtle_Jaw.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Jaw.stages.low.label>low</LingFPS_Turtle_Jaw.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Jaw.stages.Normal.label>Normal</LingFPS_Turtle_Jaw.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Jaw.stages.High.label>High</LingFPS_Turtle_Jaw.stages.High.label>
+  <!-- EN: dark bone kidney -->
+  <LingFPS_Turtle_Kidney.label>dark bone kidney</LingFPS_Turtle_Kidney.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Kidney.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Kidney.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Kidney.labelNoun>body</LingFPS_Turtle_Kidney.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Kidney.stages.base.label>base</LingFPS_Turtle_Kidney.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Kidney.stages.low.label>low</LingFPS_Turtle_Kidney.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Kidney.stages.Normal.label>Normal</LingFPS_Turtle_Kidney.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Kidney.stages.High.label>High</LingFPS_Turtle_Kidney.stages.High.label>
+  <!-- EN: dark bone liver -->
+  <LingFPS_Turtle_Liver.label>dark bone liver</LingFPS_Turtle_Liver.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Liver.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Liver.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Liver.labelNoun>body</LingFPS_Turtle_Liver.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Liver.stages.base.label>base</LingFPS_Turtle_Liver.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Liver.stages.low.label>low</LingFPS_Turtle_Liver.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Liver.stages.Normal.label>Normal</LingFPS_Turtle_Liver.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Liver.stages.High.label>High</LingFPS_Turtle_Liver.stages.High.label>
+  <!-- EN: dark bone lung -->
+  <LingFPS_Turtle_Lung.label>dark bone lung</LingFPS_Turtle_Lung.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Lung.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Lung.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Lung.labelNoun>body</LingFPS_Turtle_Lung.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Lung.stages.base.label>base</LingFPS_Turtle_Lung.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Lung.stages.low.label>low</LingFPS_Turtle_Lung.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Lung.stages.Normal.label>Normal</LingFPS_Turtle_Lung.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Lung.stages.High.label>High</LingFPS_Turtle_Lung.stages.High.label>
+  <!-- EN: dark bone nose -->
+  <LingFPS_Turtle_Nose.label>dark bone nose</LingFPS_Turtle_Nose.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Nose.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Nose.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Nose.labelNoun>body</LingFPS_Turtle_Nose.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Nose.stages.base.label>base</LingFPS_Turtle_Nose.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Nose.stages.low.label>low</LingFPS_Turtle_Nose.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Nose.stages.Normal.label>Normal</LingFPS_Turtle_Nose.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Nose.stages.High.label>High</LingFPS_Turtle_Nose.stages.High.label>
+  <!-- EN: dark bone pelvis -->
+  <LingFPS_Turtle_Pelvis.label>dark bone pelvis</LingFPS_Turtle_Pelvis.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Pelvis.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Pelvis.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Pelvis.labelNoun>body</LingFPS_Turtle_Pelvis.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Pelvis.stages.base.label>base</LingFPS_Turtle_Pelvis.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Pelvis.stages.low.label>low</LingFPS_Turtle_Pelvis.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Pelvis.stages.Normal.label>Normal</LingFPS_Turtle_Pelvis.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Pelvis.stages.High.label>High</LingFPS_Turtle_Pelvis.stages.High.label>
+  <!-- EN: dark bone radius -->
+  <LingFPS_Turtle_Radius.label>dark bone radius</LingFPS_Turtle_Radius.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Radius.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Radius.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Radius.labelNoun>body</LingFPS_Turtle_Radius.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Radius.stages.base.label>base</LingFPS_Turtle_Radius.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Radius.stages.low.label>low</LingFPS_Turtle_Radius.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Radius.stages.Normal.label>Normal</LingFPS_Turtle_Radius.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Radius.stages.High.label>High</LingFPS_Turtle_Radius.stages.High.label>
+  <!-- EN: dark bone spine -->
+  <LingFPS_Turtle_Spine.label>dark bone spine</LingFPS_Turtle_Spine.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Spine.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Spine.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Spine.labelNoun>body</LingFPS_Turtle_Spine.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Spine.stages.base.label>base</LingFPS_Turtle_Spine.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Spine.stages.low.label>low</LingFPS_Turtle_Spine.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Spine.stages.Normal.label>Normal</LingFPS_Turtle_Spine.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Spine.stages.High.label>High</LingFPS_Turtle_Spine.stages.High.label>
+  <!-- EN: dark bone sternum -->
+  <LingFPS_Turtle_Sternum.label>dark bone sternum</LingFPS_Turtle_Sternum.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Sternum.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Sternum.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Sternum.labelNoun>body</LingFPS_Turtle_Sternum.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Sternum.stages.base.label>base</LingFPS_Turtle_Sternum.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Sternum.stages.low.label>low</LingFPS_Turtle_Sternum.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Sternum.stages.Normal.label>Normal</LingFPS_Turtle_Sternum.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Sternum.stages.High.label>High</LingFPS_Turtle_Sternum.stages.High.label>
+  <!-- EN: dark bone stomach -->
+  <LingFPS_Turtle_Stomach.label>dark bone stomach</LingFPS_Turtle_Stomach.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Stomach.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Stomach.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Stomach.labelNoun>body</LingFPS_Turtle_Stomach.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Stomach.stages.base.label>base</LingFPS_Turtle_Stomach.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Stomach.stages.low.label>low</LingFPS_Turtle_Stomach.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Stomach.stages.Normal.label>Normal</LingFPS_Turtle_Stomach.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Stomach.stages.High.label>High</LingFPS_Turtle_Stomach.stages.High.label>
+  <!-- EN: dark bone protection -->
+  <LingFPS_Turtle_TaoZhuang.label>dark bone protection</LingFPS_Turtle_TaoZhuang.label>
+  <!-- EN: The effect of resonance between dark bone bionics can greatly improve the ability of dark bone bionic user.\nEvery five pieces of dark bone bionics installed, this resonance effect will increase by one level. -->
+  <LingFPS_Turtle_TaoZhuang.description>The effect of resonance between dark bone bionics can greatly improve the ability of dark bone bionic user.
+Every five pieces of dark bone bionics installed, this resonance effect will increase by one level.</LingFPS_Turtle_TaoZhuang.description>
+  <!-- EN: lv.0 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv0.label>lv.0</LingFPS_Turtle_TaoZhuang.stages.lv0.label>
+  <!-- EN: lv.1 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv1.label>lv.1</LingFPS_Turtle_TaoZhuang.stages.lv1.label>
+  <!-- EN: lv.2 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv2.label>lv.2</LingFPS_Turtle_TaoZhuang.stages.lv2.label>
+  <!-- EN: lv.3 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv3.label>lv.3</LingFPS_Turtle_TaoZhuang.stages.lv3.label>
+  <!-- EN: lv.4 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv4.label>lv.4</LingFPS_Turtle_TaoZhuang.stages.lv4.label>
+  <!-- EN: lv.5 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv5.label>lv.5</LingFPS_Turtle_TaoZhuang.stages.lv5.label>
+  <!-- EN: lv.6 -->
+  <LingFPS_Turtle_TaoZhuang.stages.lv6.label>lv.6</LingFPS_Turtle_TaoZhuang.stages.lv6.label>
+  <!-- EN: dark bone tibia -->
+  <LingFPS_Turtle_Tibia.label>dark bone tibia</LingFPS_Turtle_Tibia.label>
+  <!-- EN: A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked. -->
+  <LingFPS_Turtle_Tibia.description>A bionic component installed on the human body whose efficiency diminishes over time, but increases its efficiency each time it is attacked.</LingFPS_Turtle_Tibia.description>
+  <!-- EN: body -->
+  <LingFPS_Turtle_Tibia.labelNoun>body</LingFPS_Turtle_Tibia.labelNoun>
+  <!-- EN: base -->
+  <LingFPS_Turtle_Tibia.stages.base.label>base</LingFPS_Turtle_Tibia.stages.base.label>
+  <!-- EN: low -->
+  <LingFPS_Turtle_Tibia.stages.low.label>low</LingFPS_Turtle_Tibia.stages.low.label>
+  <!-- EN: Normal -->
+  <LingFPS_Turtle_Tibia.stages.Normal.label>Normal</LingFPS_Turtle_Tibia.stages.Normal.label>
+  <!-- EN: High -->
+  <LingFPS_Turtle_Tibia.stages.High.label>High</LingFPS_Turtle_Tibia.stages.High.label>
+</LanguageData>

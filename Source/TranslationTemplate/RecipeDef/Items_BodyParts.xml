@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make plain white bionic pack -->
+  <MakeLingFPS_Blank.label>make plain white bionic pack</MakeLingFPS_Blank.label>
+  <!-- EN: make plain white bionic pack. -->
+  <MakeLingFPS_Blank.description>make plain white bionic pack.</MakeLingFPS_Blank.description>
+  <!-- EN: make plain white bionic pack. -->
+  <MakeLingFPS_Blank.jobString>make plain white bionic pack.</MakeLingFPS_Blank.jobString>
+  <!-- EN: make red blood bionic pack -->
+  <MakeLingFPS_Blood.label>make red blood bionic pack</MakeLingFPS_Blood.label>
+  <!-- EN: make red blood bionic pack. -->
+  <MakeLingFPS_Blood.description>make red blood bionic pack.</MakeLingFPS_Blood.description>
+  <!-- EN: make red blood bionic pack. -->
+  <MakeLingFPS_Blood.jobString>make red blood bionic pack.</MakeLingFPS_Blood.jobString>
+  <!-- EN: make dark bone bionic pack -->
+  <MakeLingFPS_Turtle.label>make dark bone bionic pack</MakeLingFPS_Turtle.label>
+  <!-- EN: make dark bone bionic pack. -->
+  <MakeLingFPS_Turtle.description>make dark bone bionic pack.</MakeLingFPS_Turtle.description>
+  <!-- EN: make dark bone bionic pack. -->
+  <MakeLingFPS_Turtle.jobString>make dark bone bionic pack.</MakeLingFPS_Turtle.jobString>
+</LanguageData>

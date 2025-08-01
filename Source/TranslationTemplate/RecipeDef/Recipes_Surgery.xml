@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install plain white brain -->
+  <installLingFPS_Blank_Brain.label>install plain white brain</installLingFPS_Blank_Brain.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Brain.description>Install a bodypart.</installLingFPS_Blank_Brain.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Brain.jobString>in surgery.</installLingFPS_Blank_Brain.jobString>
+  <!-- EN: install plain white Clavicle -->
+  <installLingFPS_Blank_Clavicle.label>install plain white Clavicle</installLingFPS_Blank_Clavicle.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Clavicle.description>Install a bodypart.</installLingFPS_Blank_Clavicle.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Clavicle.jobString>in surgery.</installLingFPS_Blank_Clavicle.jobString>
+  <!-- EN: install plain white ear -->
+  <installLingFPS_Blank_Ear.label>install plain white ear</installLingFPS_Blank_Ear.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Ear.description>Install a bodypart.</installLingFPS_Blank_Ear.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Ear.jobString>in surgery.</installLingFPS_Blank_Ear.jobString>
+  <!-- EN: install plain white eye -->
+  <installLingFPS_Blank_Eye.label>install plain white eye</installLingFPS_Blank_Eye.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Eye.description>Install a bodypart.</installLingFPS_Blank_Eye.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Eye.jobString>in surgery.</installLingFPS_Blank_Eye.jobString>
+  <!-- EN: install plain white Femur -->
+  <installLingFPS_Blank_Femur.label>install plain white Femur</installLingFPS_Blank_Femur.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Femur.description>Install a bodypart.</installLingFPS_Blank_Femur.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Femur.jobString>in surgery.</installLingFPS_Blank_Femur.jobString>
+  <!-- EN: install plain white Foot -->
+  <installLingFPS_Blank_Foot.label>install plain white Foot</installLingFPS_Blank_Foot.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Foot.description>Install a bodypart.</installLingFPS_Blank_Foot.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Foot.jobString>in surgery.</installLingFPS_Blank_Foot.jobString>
+  <!-- EN: install plain white Hand -->
+  <installLingFPS_Blank_Hand.label>install plain white Hand</installLingFPS_Blank_Hand.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Hand.description>Install a bodypart.</installLingFPS_Blank_Hand.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Hand.jobString>in surgery.</installLingFPS_Blank_Hand.jobString>
+  <!-- EN: install plain white Heart -->
+  <installLingFPS_Blank_Heart.label>install plain white Heart</installLingFPS_Blank_Heart.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Heart.description>Install a bodypart.</installLingFPS_Blank_Heart.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Heart.jobString>in surgery.</installLingFPS_Blank_Heart.jobString>
+  <!-- EN: install plain white Humerus -->
+  <installLingFPS_Blank_Humerus.label>install plain white Humerus</installLingFPS_Blank_Humerus.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Humerus.description>Install a bodypart.</installLingFPS_Blank_Humerus.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Humerus.jobString>in surgery.</installLingFPS_Blank_Humerus.jobString>
+  <!-- EN: install plain white Jaw -->
+  <installLingFPS_Blank_Jaw.label>install plain white Jaw</installLingFPS_Blank_Jaw.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Jaw.description>Install a bodypart.</installLingFPS_Blank_Jaw.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Jaw.jobString>in surgery.</installLingFPS_Blank_Jaw.jobString>
+  <!-- EN: install plain white Kidney -->
+  <installLingFPS_Blank_Kidney.label>install plain white Kidney</installLingFPS_Blank_Kidney.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Kidney.description>Install a bodypart.</installLingFPS_Blank_Kidney.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Kidney.jobString>in surgery.</installLingFPS_Blank_Kidney.jobString>
+  <!-- EN: install plain white Liver -->
+  <installLingFPS_Blank_Liver.label>install plain white Liver</installLingFPS_Blank_Liver.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Liver.description>Install a bodypart.</installLingFPS_Blank_Liver.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Liver.jobString>in surgery.</installLingFPS_Blank_Liver.jobString>
+  <!-- EN: install plain white Lung -->
+  <installLingFPS_Blank_Lung.label>install plain white Lung</installLingFPS_Blank_Lung.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Lung.description>Install a bodypart.</installLingFPS_Blank_Lung.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Lung.jobString>in surgery.</installLingFPS_Blank_Lung.jobString>
+  <!-- EN: install plain white nose -->
+  <installLingFPS_Blank_Nose.label>install plain white nose</installLingFPS_Blank_Nose.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Nose.description>Install a bodypart.</installLingFPS_Blank_Nose.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Nose.jobString>in surgery.</installLingFPS_Blank_Nose.jobString>
+  <!-- EN: install plain white Pelvis -->
+  <installLingFPS_Blank_Pelvis.label>install plain white Pelvis</installLingFPS_Blank_Pelvis.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Pelvis.description>Install a bodypart.</installLingFPS_Blank_Pelvis.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Pelvis.jobString>in surgery.</installLingFPS_Blank_Pelvis.jobString>
+  <!-- EN: install plain white Radius -->
+  <installLingFPS_Blank_Radius.label>install plain white Radius</installLingFPS_Blank_Radius.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Radius.description>Install a bodypart.</installLingFPS_Blank_Radius.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Radius.jobString>in surgery.</installLingFPS_Blank_Radius.jobString>
+  <!-- EN: install plain white Spine -->
+  <installLingFPS_Blank_Spine.label>install plain white Spine</installLingFPS_Blank_Spine.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Spine.description>Install a bodypart.</installLingFPS_Blank_Spine.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Spine.jobString>in surgery.</installLingFPS_Blank_Spine.jobString>
+  <!-- EN: install plain white Sternum -->
+  <installLingFPS_Blank_Sternum.label>install plain white Sternum</installLingFPS_Blank_Sternum.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Sternum.description>Install a bodypart.</installLingFPS_Blank_Sternum.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Sternum.jobString>in surgery.</installLingFPS_Blank_Sternum.jobString>
+  <!-- EN: install plain white Stomach -->
+  <installLingFPS_Blank_Stomach.label>install plain white Stomach</installLingFPS_Blank_Stomach.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Stomach.description>Install a bodypart.</installLingFPS_Blank_Stomach.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Stomach.jobString>in surgery.</installLingFPS_Blank_Stomach.jobString>
+  <!-- EN: install plain white Tibia -->
+  <installLingFPS_Blank_Tibia.label>install plain white Tibia</installLingFPS_Blank_Tibia.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blank_Tibia.description>Install a bodypart.</installLingFPS_Blank_Tibia.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blank_Tibia.jobString>in surgery.</installLingFPS_Blank_Tibia.jobString>
+  <!-- EN: install plain white brain -->
+  <installLingFPS_Blood_Brain.label>install plain white brain</installLingFPS_Blood_Brain.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Brain.description>Install a bodypart.</installLingFPS_Blood_Brain.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Brain.jobString>in surgery.</installLingFPS_Blood_Brain.jobString>
+  <!-- EN: install plain white Clavicle -->
+  <installLingFPS_Blood_Clavicle.label>install plain white Clavicle</installLingFPS_Blood_Clavicle.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Clavicle.description>Install a bodypart.</installLingFPS_Blood_Clavicle.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Clavicle.jobString>in surgery.</installLingFPS_Blood_Clavicle.jobString>
+  <!-- EN: install plain white ear -->
+  <installLingFPS_Blood_Ear.label>install plain white ear</installLingFPS_Blood_Ear.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Ear.description>Install a bodypart.</installLingFPS_Blood_Ear.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Ear.jobString>in surgery.</installLingFPS_Blood_Ear.jobString>
+  <!-- EN: install plain white eye -->
+  <installLingFPS_Blood_Eye.label>install plain white eye</installLingFPS_Blood_Eye.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Eye.description>Install a bodypart.</installLingFPS_Blood_Eye.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Eye.jobString>in surgery.</installLingFPS_Blood_Eye.jobString>
+  <!-- EN: install plain white Femur -->
+  <installLingFPS_Blood_Femur.label>install plain white Femur</installLingFPS_Blood_Femur.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Femur.description>Install a bodypart.</installLingFPS_Blood_Femur.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Femur.jobString>in surgery.</installLingFPS_Blood_Femur.jobString>
+  <!-- EN: install plain white Foot -->
+  <installLingFPS_Blood_Foot.label>install plain white Foot</installLingFPS_Blood_Foot.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Foot.description>Install a bodypart.</installLingFPS_Blood_Foot.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Foot.jobString>in surgery.</installLingFPS_Blood_Foot.jobString>
+  <!-- EN: install plain white Hand -->
+  <installLingFPS_Blood_Hand.label>install plain white Hand</installLingFPS_Blood_Hand.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Hand.description>Install a bodypart.</installLingFPS_Blood_Hand.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Hand.jobString>in surgery.</installLingFPS_Blood_Hand.jobString>
+  <!-- EN: install plain white Heart -->
+  <installLingFPS_Blood_Heart.label>install plain white Heart</installLingFPS_Blood_Heart.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Heart.description>Install a bodypart.</installLingFPS_Blood_Heart.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Heart.jobString>in surgery.</installLingFPS_Blood_Heart.jobString>
+  <!-- EN: install plain white Humerus -->
+  <installLingFPS_Blood_Humerus.label>install plain white Humerus</installLingFPS_Blood_Humerus.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Humerus.description>Install a bodypart.</installLingFPS_Blood_Humerus.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Humerus.jobString>in surgery.</installLingFPS_Blood_Humerus.jobString>
+  <!-- EN: install plain white Jaw -->
+  <installLingFPS_Blood_Jaw.label>install plain white Jaw</installLingFPS_Blood_Jaw.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Jaw.description>Install a bodypart.</installLingFPS_Blood_Jaw.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Jaw.jobString>in surgery.</installLingFPS_Blood_Jaw.jobString>
+  <!-- EN: install plain white Kidney -->
+  <installLingFPS_Blood_Kidney.label>install plain white Kidney</installLingFPS_Blood_Kidney.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Kidney.description>Install a bodypart.</installLingFPS_Blood_Kidney.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Kidney.jobString>in surgery.</installLingFPS_Blood_Kidney.jobString>
+  <!-- EN: install plain white Liver -->
+  <installLingFPS_Blood_Liver.label>install plain white Liver</installLingFPS_Blood_Liver.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Liver.description>Install a bodypart.</installLingFPS_Blood_Liver.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Liver.jobString>in surgery.</installLingFPS_Blood_Liver.jobString>
+  <!-- EN: install plain white Lung -->
+  <installLingFPS_Blood_Lung.label>install plain white Lung</installLingFPS_Blood_Lung.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Lung.description>Install a bodypart.</installLingFPS_Blood_Lung.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Lung.jobString>in surgery.</installLingFPS_Blood_Lung.jobString>
+  <!-- EN: install plain white nose -->
+  <installLingFPS_Blood_Nose.label>install plain white nose</installLingFPS_Blood_Nose.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Nose.description>Install a bodypart.</installLingFPS_Blood_Nose.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Nose.jobString>in surgery.</installLingFPS_Blood_Nose.jobString>
+  <!-- EN: install plain white Pelvis -->
+  <installLingFPS_Blood_Pelvis.label>install plain white Pelvis</installLingFPS_Blood_Pelvis.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Pelvis.description>Install a bodypart.</installLingFPS_Blood_Pelvis.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Pelvis.jobString>in surgery.</installLingFPS_Blood_Pelvis.jobString>
+  <!-- EN: install plain white Radius -->
+  <installLingFPS_Blood_Radius.label>install plain white Radius</installLingFPS_Blood_Radius.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Radius.description>Install a bodypart.</installLingFPS_Blood_Radius.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Radius.jobString>in surgery.</installLingFPS_Blood_Radius.jobString>
+  <!-- EN: install plain white Spine -->
+  <installLingFPS_Blood_Spine.label>install plain white Spine</installLingFPS_Blood_Spine.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Spine.description>Install a bodypart.</installLingFPS_Blood_Spine.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Spine.jobString>in surgery.</installLingFPS_Blood_Spine.jobString>
+  <!-- EN: install plain white Sternum -->
+  <installLingFPS_Blood_Sternum.label>install plain white Sternum</installLingFPS_Blood_Sternum.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Sternum.description>Install a bodypart.</installLingFPS_Blood_Sternum.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Sternum.jobString>in surgery.</installLingFPS_Blood_Sternum.jobString>
+  <!-- EN: install plain white Stomach -->
+  <installLingFPS_Blood_Stomach.label>install plain white Stomach</installLingFPS_Blood_Stomach.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Stomach.description>Install a bodypart.</installLingFPS_Blood_Stomach.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Stomach.jobString>in surgery.</installLingFPS_Blood_Stomach.jobString>
+  <!-- EN: install plain white Tibia -->
+  <installLingFPS_Blood_Tibia.label>install plain white Tibia</installLingFPS_Blood_Tibia.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Blood_Tibia.description>Install a bodypart.</installLingFPS_Blood_Tibia.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Blood_Tibia.jobString>in surgery.</installLingFPS_Blood_Tibia.jobString>
+  <!-- EN: install dark bone brain -->
+  <installLingFPS_Turtle_Brain.label>install dark bone brain</installLingFPS_Turtle_Brain.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Brain.description>Install a bodypart.</installLingFPS_Turtle_Brain.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Brain.jobString>in surgery.</installLingFPS_Turtle_Brain.jobString>
+  <!-- EN: install dark bone Clavicle -->
+  <installLingFPS_Turtle_Clavicle.label>install dark bone Clavicle</installLingFPS_Turtle_Clavicle.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Clavicle.description>Install a bodypart.</installLingFPS_Turtle_Clavicle.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Clavicle.jobString>in surgery.</installLingFPS_Turtle_Clavicle.jobString>
+  <!-- EN: install dark bone ear -->
+  <installLingFPS_Turtle_Ear.label>install dark bone ear</installLingFPS_Turtle_Ear.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Ear.description>Install a bodypart.</installLingFPS_Turtle_Ear.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Ear.jobString>in surgery.</installLingFPS_Turtle_Ear.jobString>
+  <!-- EN: install dark bone eye -->
+  <installLingFPS_Turtle_Eye.label>install dark bone eye</installLingFPS_Turtle_Eye.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Eye.description>Install a bodypart.</installLingFPS_Turtle_Eye.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Eye.jobString>in surgery.</installLingFPS_Turtle_Eye.jobString>
+  <!-- EN: install dark bone Femur -->
+  <installLingFPS_Turtle_Femur.label>install dark bone Femur</installLingFPS_Turtle_Femur.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Femur.description>Install a bodypart.</installLingFPS_Turtle_Femur.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Femur.jobString>in surgery.</installLingFPS_Turtle_Femur.jobString>
+  <!-- EN: install dark bone Foot -->
+  <installLingFPS_Turtle_Foot.label>install dark bone Foot</installLingFPS_Turtle_Foot.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Foot.description>Install a bodypart.</installLingFPS_Turtle_Foot.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Foot.jobString>in surgery.</installLingFPS_Turtle_Foot.jobString>
+  <!-- EN: install dark bone Hand -->
+  <installLingFPS_Turtle_Hand.label>install dark bone Hand</installLingFPS_Turtle_Hand.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Hand.description>Install a bodypart.</installLingFPS_Turtle_Hand.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Hand.jobString>in surgery.</installLingFPS_Turtle_Hand.jobString>
+  <!-- EN: install dark bone Heart -->
+  <installLingFPS_Turtle_Heart.label>install dark bone Heart</installLingFPS_Turtle_Heart.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Heart.description>Install a bodypart.</installLingFPS_Turtle_Heart.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Heart.jobString>in surgery.</installLingFPS_Turtle_Heart.jobString>
+  <!-- EN: install dark bone Humerus -->
+  <installLingFPS_Turtle_Humerus.label>install dark bone Humerus</installLingFPS_Turtle_Humerus.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Humerus.description>Install a bodypart.</installLingFPS_Turtle_Humerus.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Humerus.jobString>in surgery.</installLingFPS_Turtle_Humerus.jobString>
+  <!-- EN: install dark bone Jaw -->
+  <installLingFPS_Turtle_Jaw.label>install dark bone Jaw</installLingFPS_Turtle_Jaw.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Jaw.description>Install a bodypart.</installLingFPS_Turtle_Jaw.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Jaw.jobString>in surgery.</installLingFPS_Turtle_Jaw.jobString>
+  <!-- EN: install dark bone Kidney -->
+  <installLingFPS_Turtle_Kidney.label>install dark bone Kidney</installLingFPS_Turtle_Kidney.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Kidney.description>Install a bodypart.</installLingFPS_Turtle_Kidney.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Kidney.jobString>in surgery.</installLingFPS_Turtle_Kidney.jobString>
+  <!-- EN: install dark bone Liver -->
+  <installLingFPS_Turtle_Liver.label>install dark bone Liver</installLingFPS_Turtle_Liver.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Liver.description>Install a bodypart.</installLingFPS_Turtle_Liver.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Liver.jobString>in surgery.</installLingFPS_Turtle_Liver.jobString>
+  <!-- EN: install dark bone Lung -->
+  <installLingFPS_Turtle_Lung.label>install dark bone Lung</installLingFPS_Turtle_Lung.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Lung.description>Install a bodypart.</installLingFPS_Turtle_Lung.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Lung.jobString>in surgery.</installLingFPS_Turtle_Lung.jobString>
+  <!-- EN: install dark bone nose -->
+  <installLingFPS_Turtle_Nose.label>install dark bone nose</installLingFPS_Turtle_Nose.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Nose.description>Install a bodypart.</installLingFPS_Turtle_Nose.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Nose.jobString>in surgery.</installLingFPS_Turtle_Nose.jobString>
+  <!-- EN: install dark bone Pelvis -->
+  <installLingFPS_Turtle_Pelvis.label>install dark bone Pelvis</installLingFPS_Turtle_Pelvis.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Pelvis.description>Install a bodypart.</installLingFPS_Turtle_Pelvis.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Pelvis.jobString>in surgery.</installLingFPS_Turtle_Pelvis.jobString>
+  <!-- EN: install dark bone Radius -->
+  <installLingFPS_Turtle_Radius.label>install dark bone Radius</installLingFPS_Turtle_Radius.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Radius.description>Install a bodypart.</installLingFPS_Turtle_Radius.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Radius.jobString>in surgery.</installLingFPS_Turtle_Radius.jobString>
+  <!-- EN: install dark bone Spine -->
+  <installLingFPS_Turtle_Spine.label>install dark bone Spine</installLingFPS_Turtle_Spine.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Spine.description>Install a bodypart.</installLingFPS_Turtle_Spine.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Spine.jobString>in surgery.</installLingFPS_Turtle_Spine.jobString>
+  <!-- EN: install dark bone Sternum -->
+  <installLingFPS_Turtle_Sternum.label>install dark bone Sternum</installLingFPS_Turtle_Sternum.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Sternum.description>Install a bodypart.</installLingFPS_Turtle_Sternum.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Sternum.jobString>in surgery.</installLingFPS_Turtle_Sternum.jobString>
+  <!-- EN: install dark bone Stomach -->
+  <installLingFPS_Turtle_Stomach.label>install dark bone Stomach</installLingFPS_Turtle_Stomach.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Stomach.description>Install a bodypart.</installLingFPS_Turtle_Stomach.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Stomach.jobString>in surgery.</installLingFPS_Turtle_Stomach.jobString>
+  <!-- EN: install dark bone Tibia -->
+  <installLingFPS_Turtle_Tibia.label>install dark bone Tibia</installLingFPS_Turtle_Tibia.label>
+  <!-- EN: Install a bodypart. -->
+  <installLingFPS_Turtle_Tibia.description>Install a bodypart.</installLingFPS_Turtle_Tibia.description>
+  <!-- EN: in surgery. -->
+  <installLingFPS_Turtle_Tibia.jobString>in surgery.</installLingFPS_Turtle_Tibia.jobString>
+</LanguageData>

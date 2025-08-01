@@ -6,7 +6,7 @@ namespace LingGame;
 
 public class Comp_LingSpawnItem : ThingComp
 {
-    public CompProperties_LingSpawnItem Props => (CompProperties_LingSpawnItem)props;
+    private CompProperties_LingSpawnItem Props => (CompProperties_LingSpawnItem)props;
 
     public override IEnumerable<Gizmo> CompGetGizmosExtra()
     {

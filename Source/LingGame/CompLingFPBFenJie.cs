@@ -6,7 +6,7 @@ namespace LingGame;
 
 public class CompLingFPBFenJie : ThingComp
 {
-    public ComppLingFPBFenJie Props => (ComppLingFPBFenJie)props;
+    private ComppLingFPBFenJie Props => (ComppLingFPBFenJie)props;
 
     public override IEnumerable<Gizmo> CompGetGizmosExtra()
     {

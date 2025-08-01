@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 6858,
+  "LinesOfXML": 152286,
+  "CodeBaseSize": 82,
+  "LastXmlCleaning": "2025-08-01T22:45:16.2083542+02:00",
+  "SocialImageSet": true,
+  "SearchTags": "enhancement"
 }

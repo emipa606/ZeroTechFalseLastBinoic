@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: plain white Module -->
+  <LingFPS_Blank.label>plain white Module</LingFPS_Blank.label>
+  <!-- EN: 人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?\n	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成. -->
+  <LingFPS_Blank.description>人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?
+	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成.</LingFPS_Blank.description>
+  <!-- EN: plain white Module(Skeleton) -->
+  <LingFPS_Blank_I.label>plain white Module(Skeleton)</LingFPS_Blank_I.label>
+  <!-- EN: A plain white bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Blank_I.description>A plain white bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Blank_I.description>
+  <!-- EN: plain white Module(Organ) -->
+  <LingFPS_Blank_II.label>plain white Module(Organ)</LingFPS_Blank_II.label>
+  <!-- EN: A plain white bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Blank_II.description>A plain white bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Blank_II.description>
+  <!-- EN: red blood Module -->
+  <LingFPS_Blood.label>red blood Module</LingFPS_Blood.label>
+  <!-- EN: 人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?\n	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成. -->
+  <LingFPS_Blood.description>人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?
+	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成.</LingFPS_Blood.description>
+  <!-- EN: red blood Module(Skeleton) -->
+  <LingFPS_Blood_I.label>red blood Module(Skeleton)</LingFPS_Blood_I.label>
+  <!-- EN: A plain white bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Blood_I.description>A plain white bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Blood_I.description>
+  <!-- EN: red blood Module(Organ) -->
+  <LingFPS_Blood_II.label>red blood Module(Organ)</LingFPS_Blood_II.label>
+  <!-- EN: A plain white bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Blood_II.description>A plain white bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Blood_II.description>
+  <!-- EN: dark bone Module -->
+  <LingFPS_Turtle.label>dark bone Module</LingFPS_Turtle.label>
+  <!-- EN: 人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?\n	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成. -->
+  <LingFPS_Turtle.description>人为什么需要那么多无聊的能力,只要把基础的能力无限的增强,还有什么是得不到的呢?
+	可以拆解以获得一个素白仿生模组,可以安装在人体提供一定的加成.</LingFPS_Turtle.description>
+  <!-- EN: dark bone Module(Skeleton) -->
+  <LingFPS_Turtle_I.label>dark bone Module(Skeleton)</LingFPS_Turtle_I.label>
+  <!-- EN: A dark bone bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Turtle_I.description>A dark bone bionic that records Skeleton,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Turtle_I.description>
+  <!-- EN: dark bone Module(Organ) -->
+  <LingFPS_Turtle_II.label>dark bone Module(Organ)</LingFPS_Turtle_II.label>
+  <!-- EN: A dark bone bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body. -->
+  <LingFPS_Turtle_II.description>A dark bone bionic that records Organ,Can be installed on the human body to provide certain capabilities for the human body.</LingFPS_Turtle_II.description>
+</LanguageData>

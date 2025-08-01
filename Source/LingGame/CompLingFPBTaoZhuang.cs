@@ -7,7 +7,7 @@ public class CompLingFPBTaoZhuang : HediffComp
 {
     private bool NeedFix = true;
 
-    public ComppLingFPBTaoZhuang Porps => (ComppLingFPBTaoZhuang)props;
+    private ComppLingFPBTaoZhuang Porps => (ComppLingFPBTaoZhuang)props;
 
     public override void CompPostTick(ref float severityAdjustment)
     {
@@ -24,7 +24,7 @@ public class CompLingFPBTaoZhuang : HediffComp
 
         var hediff2 = HediffMaker.MakeHediff(Porps.hediffDef, parent.pawn);
         var count = parent.pawn.health.hediffSet.hediffs.Where(x =>
-                x.def.defName.Contains(Def.defName.Substring(0, 13)) &&
+                x.def.defName.Contains(Def.defName[..13]) &&
                 x.def.HasComp(typeof(CompLingFPBTaoZhuang)))
             .ToList().Count;
         hediff2.Severity = (0.04f * count) + 0.001f;
@@ -38,7 +38,7 @@ public class CompLingFPBTaoZhuang : HediffComp
         Scribe_Values.Look(ref NeedFix, "NeedFix");
     }
 
-    public bool aHasHediff(HediffDef def, out Hediff hediff, bool mustBeVisible = false)
+    private bool aHasHediff(HediffDef def, out Hediff hediff, bool mustBeVisible = false)
     {
         foreach (var hediff1 in parent.pawn.health.hediffSet.hediffs)
         {
