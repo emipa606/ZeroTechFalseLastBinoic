@@ -6,4 +6,13 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="LingGame/ZeroTechFLB.csproj" />
+  <Folder Name="/XML/1.7/Defs/Implant/">
+    <File Path="../1.7/Defs/Implant/ConceptDefs.xml" />
+    <File Path="../1.7/Defs/Implant/Hediffs.xml" />
+    <File Path="../1.7/Defs/Implant/Items_BodyParts.xml" />
+    <File Path="../1.7/Defs/Implant/Recipes_Surgery.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
 </Solution>
